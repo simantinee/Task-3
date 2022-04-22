@@ -1,0 +1,5 @@
+{
+    "dbURI": "mongodb://simantinee:8270529350snj@cluster0-shard-00-00.qbxb5.mongodb.net:27017,cluster0-shard-00-01.qbxb5.mongodb.net:27017,cluster0-shard-00-02.qbxb5.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-1o72f2-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "jwtsecret": "e8b3a5d9385ec2029ee71ddcea02e0aa3c20289f5e0267932ae0c2770c811398",
+    "StripeAPIKey": "sk_test_51Kr5CNSJq7ePLlkPncCyoGW5tmGnc26R8vdv8sjjXjYhSBeGhDnkSrYSsAMeOwN0ZvOC0uBa5ZV86ij7mE3p6zJR00UjlkNyoa"
+}
